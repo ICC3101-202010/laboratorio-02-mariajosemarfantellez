@@ -1,0 +1,7 @@
+C:\Users\marim\Desktop\Laboratorio02\Laboratorio02\obj\Debug\Laboratorio02.csprojAssemblyReference.cache
+C:\Users\marim\Desktop\Laboratorio02\Laboratorio02\obj\Debug\Laboratorio02.csproj.CoreCompileInputs.cache
+C:\Users\marim\Desktop\Laboratorio02\Laboratorio02\bin\Debug\Laboratorio02.exe.config
+C:\Users\marim\Desktop\Laboratorio02\Laboratorio02\bin\Debug\Laboratorio02.exe
+C:\Users\marim\Desktop\Laboratorio02\Laboratorio02\bin\Debug\Laboratorio02.pdb
+C:\Users\marim\Desktop\Laboratorio02\Laboratorio02\obj\Debug\Laboratorio02.exe
+C:\Users\marim\Desktop\Laboratorio02\Laboratorio02\obj\Debug\Laboratorio02.pdb
